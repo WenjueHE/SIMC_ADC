@@ -1,2 +1,1 @@
-"# SIMC_ADC" 
-"# SIMC_ADC" 
+Code for "Scalable Incomplete Mulstiview Clustering with Adaptive Data Completion"
